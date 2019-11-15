@@ -1,4 +1,5 @@
-																# GRINN : Garment Recognition In Neural Networks
+# GRINN : Garment Recognition In Neural Networks
+
 GRINN is a neural network based recognition system which is used to regognize/classify the type of garment. 
 
 ## Use Case
